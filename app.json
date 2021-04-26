@@ -1,0 +1,12 @@
+{
+  "name": "Notation",
+  "displayName": "Notation",
+  "expo": {
+    "name": "Notation",
+    "slug": "Notation",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
